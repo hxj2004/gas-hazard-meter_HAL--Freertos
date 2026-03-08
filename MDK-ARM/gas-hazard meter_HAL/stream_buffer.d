@@ -1,0 +1,14 @@
+gas-hazard meter_hal\stream_buffer.o: ..\MID\FreeRTOS\source\stream_buffer.c
+gas-hazard meter_hal\stream_buffer.o: E:\keli5\ARM\ARMCC\Bin\..\include\stdint.h
+gas-hazard meter_hal\stream_buffer.o: E:\keli5\ARM\ARMCC\Bin\..\include\string.h
+gas-hazard meter_hal\stream_buffer.o: ..\MID\FreeRTOS\include\FreeRTOS.h
+gas-hazard meter_hal\stream_buffer.o: E:\keli5\ARM\ARMCC\Bin\..\include\stddef.h
+gas-hazard meter_hal\stream_buffer.o: ..\MID\FreeRTOS\FreeRTOSConfig.h
+gas-hazard meter_hal\stream_buffer.o: ..\MID\FreeRTOS\include\projdefs.h
+gas-hazard meter_hal\stream_buffer.o: ..\MID\FreeRTOS\include\portable.h
+gas-hazard meter_hal\stream_buffer.o: ..\MID\FreeRTOS\include\deprecated_definitions.h
+gas-hazard meter_hal\stream_buffer.o: ..\MID\FreeRTOS\portable\portmacro.h
+gas-hazard meter_hal\stream_buffer.o: ..\MID\FreeRTOS\include\mpu_wrappers.h
+gas-hazard meter_hal\stream_buffer.o: ..\MID\FreeRTOS\include\task.h
+gas-hazard meter_hal\stream_buffer.o: ..\MID\FreeRTOS\include\list.h
+gas-hazard meter_hal\stream_buffer.o: ..\MID\FreeRTOS\include\stream_buffer.h

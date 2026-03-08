@@ -1,0 +1,16 @@
+gas-hazard meter_hal\tasks.o: ..\MID\FreeRTOS\source\tasks.c
+gas-hazard meter_hal\tasks.o: E:\keli5\ARM\ARMCC\Bin\..\include\stdlib.h
+gas-hazard meter_hal\tasks.o: E:\keli5\ARM\ARMCC\Bin\..\include\string.h
+gas-hazard meter_hal\tasks.o: ..\MID\FreeRTOS\include\FreeRTOS.h
+gas-hazard meter_hal\tasks.o: E:\keli5\ARM\ARMCC\Bin\..\include\stddef.h
+gas-hazard meter_hal\tasks.o: E:\keli5\ARM\ARMCC\Bin\..\include\stdint.h
+gas-hazard meter_hal\tasks.o: ..\MID\FreeRTOS\FreeRTOSConfig.h
+gas-hazard meter_hal\tasks.o: ..\MID\FreeRTOS\include\projdefs.h
+gas-hazard meter_hal\tasks.o: ..\MID\FreeRTOS\include\portable.h
+gas-hazard meter_hal\tasks.o: ..\MID\FreeRTOS\include\deprecated_definitions.h
+gas-hazard meter_hal\tasks.o: ..\MID\FreeRTOS\portable\portmacro.h
+gas-hazard meter_hal\tasks.o: ..\MID\FreeRTOS\include\mpu_wrappers.h
+gas-hazard meter_hal\tasks.o: ..\MID\FreeRTOS\include\task.h
+gas-hazard meter_hal\tasks.o: ..\MID\FreeRTOS\include\list.h
+gas-hazard meter_hal\tasks.o: ..\MID\FreeRTOS\include\timers.h
+gas-hazard meter_hal\tasks.o: ..\MID\FreeRTOS\include\stack_macros.h
